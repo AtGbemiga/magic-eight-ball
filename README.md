@@ -1,3 +1,6 @@
+Magic eight ball app is a mobile responsive app. Ask the magic eight anything and get the infinite wisdom of the magic eight ball. 
+Technologies used are: React and Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
